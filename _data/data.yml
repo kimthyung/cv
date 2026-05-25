@@ -5,7 +5,7 @@
 sidebar:
   position: right
   about: False
-  education: False
+  education: True
 
   name: Taehyung Kim
   tagline: "Robotics Engineer | M.S. Student in Mobility Systems Engineering"
