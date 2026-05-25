@@ -32,6 +32,17 @@ sidebar:
   leetcode:
   pdf:
 
+  interests:
+    title: Research Interests
+    info:
+      - item: Human alignment in robotics
+        subitems:
+          - Preference-based reinforcement learning
+
+      - item: Safety enhancement in robotics
+        subitems:
+          - Safety-critical scenario generation
+
 education:
   title: Education
   info:
@@ -45,16 +56,6 @@ education:
     time: "Mar 2019 - Feb 2024"
     details: ""
 
-  interests:
-    title: Research Interests
-    info:
-      - item: Human alignment in robotics
-        subitems:
-          - Preference-based reinforcement learning
-
-      - item: Safety enhancement in robotics
-        subitems:
-          - Safety-critical scenario generation
 
 experiences:
   title: Experiences
