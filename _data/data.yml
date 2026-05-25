@@ -104,28 +104,10 @@ projects:
     period: "Jul. 2023 - Aug. 2023"
     tagline: "NEXTLab | Jul. 2023 - Aug. 2023 | Developed and evaluated detection-model components, with emphasis on vision-based model implementation."
 
-  - title: "Preference-Based Reinforcement Learning"
-    link:
-    organization: "Yonsei University"
-    period: "Mar. 2025 - Present"
-    tagline: "Yonsei University | Mar. 2025 - Present | Conducting graduate-level research on preference-based reinforcement learning for intelligent mobility and robotics systems."
-
-  - title: "Pluralistic Alignment in Robotics"
-    link: "https://openreview.net/forum?id=yoBtqiFZdi"
-    organization: "Yonsei University"
-    period: "2026"
-    tagline: "Yonsei University | 2026 | Developed a deployable pluralistic alignment framework for robotics by learning similarity-grouped rewards from diverse human preferences."
-
-  - title: "Safety-Critical Scenario Generation"
-    link:
-    organization: "Yonsei University"
-    period: "2026"
-    tagline: "Yonsei University | 2026 | Developed collision snapshot guided time-reversed safety-critical scenario generation for robotics and autonomous systems."
 
 publications:
   title: Publications
-  intro: |
-    Selected publications and manuscripts.
+
   papers:
   - title: "Toward Deployable Pluralistic Alignment in Robotics: Learning Similarity-Grouped Rewards from Diverse Human Preferences"
     link: "https://openreview.net/forum?id=yoBtqiFZdi"
