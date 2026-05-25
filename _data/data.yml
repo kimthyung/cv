@@ -68,19 +68,16 @@ experiences:
 
 projects:
   title: Projects
+  intro:
   assignments:
 
   - title: "Personalized In-Vehicle AI Assistants via User Preference Alignment"
     link:
-    organization: "Hyundai Motor Company, UX Strategy Team"
-    period: "Apr 2025 - Feb 2026"
-    tagline: "Developing personalized in-vehicle AI assistant systems aligned with user preferences and interaction behaviors."
+    tagline: "with Hyundai Motor Company, UX Strategy Team (Apr 2025 - Feb 2026)"
 
   - title: "Shoe Sorting using Object Pose Estimation on a UR Manipulator"
     link:
-    organization: "Korea Institute of Science and Technology (KIST), Center for Artificial Intelligence"
-    period: "Jan 2024 - Feb 2024"
-    tagline: "Implemented a shoe sorting pipeline using object pose estimation and robotic manipulation with a UR robot arm."
+    tagline: "with Korea Institute of Science and Technology (KIST), Center for Artificial Intelligence (Jan 2024 - Feb 2024)"
 
 publications:
   title: Publications
