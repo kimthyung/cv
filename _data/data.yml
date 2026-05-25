@@ -47,9 +47,12 @@ education:
     details: ""
 
 interests:
-  title: Research Interests
-  summary: |
-    Human alignment in robotics and safety-critical scenario generation.
+    title: Research Interests
+    info:
+      Human allignment in robotics
+      - item: Preference-based reinforcement learning
+      Safety enhancement in robotics
+      - item: Safety-critical scenario generation
 
 experiences:
   title: Experiences
