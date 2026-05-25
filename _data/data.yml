@@ -97,10 +97,15 @@ publications:
   papers:
   - title: "Enhancing Remote Driving Feedback: BiLSTM-ELM-Based Steering Torque Estimation for Slip-Aware Control"
     link:
-    authors: "Taehyung Kim et al."
+    authors: "Jinwon Lee*, Taehyung Kim*, Jonghak Bae, Jongeun Choi, Junmin Wang"
     conference: "IEEE Transactions on Human-Machine Systems, under review, co-first author, May 2, 2025"
 
   - title: "A Method for Real-Time Target Association in Smart Vessel's Surround Camera System Using Geometric Relationships and SIFT Feature Point Detection"
     link:
-    authors: "Taehyung Kim et al."
+    authors: "Taehyung Kim, Minsuk Jang, Siho Kim"
     conference: "The Institute of Electronics and Information Engineers, first-author oral presentation, June 25, 2024"
+
+  - title: "Autonomous Robot Racing Competitions: Truly Multivehicle Autonomous Racing Competitions [Competitions]"
+    link:
+    authors: "HeeChang Moon, Shin Han Kang, Jeongsik Eom, Myun Joong Hwang, Youngmin Kim, Jungha Wang, Beomjun Kim, Taehyung Kim, Taekwon Ga, Jongeun Choi, Wonsang You, Jiyou Shin, Jongsoo Han, Kyeongbeen Park, Hyungpil Moon, Seok-Cheol Kee, Hak-Jin Kim, Yong-Hyun Kim, Kibeom Lee, Jaeseung Yu"
+    conference: "Publication venue/date TBD"
