@@ -1,6 +1,4 @@
-mkdir -p _data
 
-cat > _data/data.yml <<'EOF'
 # Tailored CV data for Taehyung Kim
 # Main sections retained: Education, Experiences, Projects, Publications
 #
