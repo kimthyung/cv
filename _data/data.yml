@@ -1,6 +1,8 @@
-#
+mkdir -p _data
+
+cat > _data/data.yml <<'EOF'
 # Tailored CV data for Taehyung Kim
-# Main sections retained: Experiences, Projects, Publications
+# Main sections retained: Education, Experiences, Projects, Publications
 #
 
 sidebar:
@@ -10,7 +12,7 @@ sidebar:
 
   # Profile information
   name: Taehyung Kim
-  tagline: Robotics Engineer | M.S. Student in Mobility Systems Engineering
+  tagline: "Robotics Engineer | M.S. Student in Mobility Systems Engineering"
   avatar: profile.png
 
   # Sidebar links
@@ -34,6 +36,21 @@ sidebar:
   hackerrank:
   leetcode:
   pdf:
+
+education:
+  title: Education
+  info:
+  - degree: M.S. in Mobility Systems Engineering
+    university: Yonsei University, Seoul, Republic of Korea
+    time: Feb. 2025 - Feb. 2027
+    details: |
+      Graduate research focused on reinforcement learning, preference-based reinforcement learning, and robotics/intelligent mobility systems.
+
+  - degree: B.S. in Mechanical Engineering
+    university: Yonsei University, Seoul, Republic of Korea
+    time: Mar. 2019 - Dec. 2024
+    details: |
+      GPA: 3.5/4.3
 
 experiences:
   title: Experiences
@@ -72,23 +89,45 @@ projects:
   assignments:
   - title: Multiple Object Tracking and Calibration Automation
     link:
-    tagline: "Developed perception-side workflows for smart vessel camera systems, combining multiple object tracking with calibration automation to support robust multi-camera operation."
+    organization: Seadronix Corp.
+    period: Mar. 2024 - Jul. 2024
+    tagline: "Seadronix Corp. | Mar. 2024 - Jul. 2024 | Developed perception-side workflows for smart vessel camera systems, combining multiple object tracking with calibration automation to support robust multi-camera operation."
 
   - title: Real-Time Target Association for Smart Vessel Surround-Camera Systems
-    link:
-    tagline: "Designed a real-time target association method using geometric relationships and SIFT feature-point detection; presented as a first-author oral paper at the Institute of Electronics and Information Engineers in 2024."
+    link: "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11890350"
+    organization: Seadronix Corp. / The Institute of Electronics and Information Engineers
+    period: Mar. 2024 - Jun. 2024
+    tagline: "Seadronix Corp. / IEIE | Mar. 2024 - Jun. 2024 | Designed a real-time target association method using geometric relationships and SIFT feature-point detection; presented as a first-author oral paper in 2024."
 
   - title: Industrial Robot Simulation
     link:
-    tagline: "Built simulation scenarios for industrial robots during an internship at HD Hyundai Robotics, supporting verification of robotic operation logic before physical deployment."
+    organization: HD Hyundai Robotics
+    period: Dec. 2023 - Feb. 2024
+    tagline: "HD Hyundai Robotics | Dec. 2023 - Feb. 2024 | Built simulation scenarios for industrial robots, supporting verification of robotic operation logic before physical deployment."
 
   - title: Detection Model Development
     link:
-    tagline: "Developed and evaluated detection-model components during a software engineering internship at NEXTLab, with emphasis on vision-based model implementation."
+    organization: NEXTLab
+    period: Jul. 2023 - Aug. 2023
+    tagline: "NEXTLab | Jul. 2023 - Aug. 2023 | Developed and evaluated detection-model components, with emphasis on vision-based model implementation."
 
   - title: Preference-Based Reinforcement Learning
     link:
-    tagline: "Conducting graduate-level research on preference-based reinforcement learning for intelligent mobility and robotics systems."
+    organization: Yonsei University
+    period: Feb. 2025 - Present
+    tagline: "Yonsei University | Feb. 2025 - Present | Conducting graduate-level research on preference-based reinforcement learning for intelligent mobility and robotics systems."
+
+  - title: Pluralistic Alignment in Robotics
+    link: "https://openreview.net/forum?id=yoBtqiFZdi"
+    organization: Yonsei University
+    period: 2026
+    tagline: "Yonsei University | 2026 | Developed a deployable pluralistic alignment framework for robotics by learning similarity-grouped rewards from diverse human preferences."
+
+  - title: Safety-Critical Scenario Generation
+    link:
+    organization: Yonsei University
+    period: 2026
+    tagline: "Yonsei University | 2026 | Developed collision snapshot guided time-reversed safety-critical scenario generation for robotics and autonomous systems."
 
 publications:
   title: Publications
@@ -103,7 +142,7 @@ publications:
   - title: "COSTER: Collision Snapshot Guided Time-Reversed Safety-Critical Scenario Generation"
     link:
     authors: "<strong>Taehyung Kim</strong>, Jonghak Bae, Gihoon Kim, Jongeun Choi"
-    conference: "10th Annual Conference on Robot Learning (CoRL), 2026, under review" 
+    conference: "10th Annual Conference on Robot Learning (CoRL), 2026, under review"
 
   - title: "Enhancing Remote Driving Feedback: BiLSTM-ELM-Based Steering Torque Estimation for Slip-Aware Control"
     link:
@@ -119,3 +158,4 @@ publications:
     link: "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11890350"
     authors: "<strong>Taehyung Kim</strong>, Minsuk Jang, Siho Kim"
     conference: "The Institute of Electronics and Information Engineers, June 25, 2024"
+EOF
