@@ -96,7 +96,7 @@ publications:
     Selected publications and manuscripts.
   papers:
   - title: "Toward Deployable Pluralistic Alignment in Robotics: Learning Similarity-Grouped Rewards from Diverse Human Preferences"
-    link:"https://openreview.net/forum?id=yoBtqiFZdi"
+    link: "https://openreview.net/forum?id=yoBtqiFZdi"
     authors: "<strong>Taehyung Kim</strong>, Gwangmo Lee, Jonghak Bae, Dongjae Kim, Jaewoong Han, Jongeun Choi"
     conference: "ICML 2026 Workshop on Pluralistic Alignment, 2026"
 
