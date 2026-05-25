@@ -103,7 +103,7 @@ publications:
   - title: "COSTER: Collision Snapshot Guided Time-Reversed Safety-Critical Scenario Generation"
     link:
     authors: "<strong>Taehyung Kim</strong>, Jonghak Bae, Gihoon Kim, Jongeun Choi"
-    conference: "10th Conference on Robot Learning (CoRL, 2026), under review"
+    conference: "10th Annual Conference on Robot Learning (CoRL), 2026, under review" 
 
   - title: "Enhancing Remote Driving Feedback: BiLSTM-ELM-Based Steering Torque Estimation for Slip-Aware Control"
     link:
