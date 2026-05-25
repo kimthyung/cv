@@ -86,17 +86,17 @@ publications:
   - title: "Toward Deployable Pluralistic Alignment in Robotics: Learning Similarity-Grouped Rewards from Diverse Human Preferences"
     link: "https://openreview.net/forum?id=yoBtqiFZdi"
     authors: "<strong>Taehyung Kim</strong>, Gwangmo Lee, Jonghak Bae, Dongjae Kim, Jaewoong Han, Jongeun Choi"
-    conference: "ICML 2026 Workshop on Pluralistic Alignment, 2026"
+    conference: "ICML Workshop on Pluralistic Alignment, 2026"
 
   - title: "COSTER: Collision Snapshot Guided Time-Reversed Safety-Critical Scenario Generation"
     link:
     authors: "<strong>Taehyung Kim</strong>, Jonghak Bae, Gihoon Kim, Jongeun Choi"
-    conference: "Under review, 10th Annual Conference on Robot Learning (CoRL), 2026"
+    conference: "Under review, CoRL, 2026"
 
   - title: "Enhancing Remote Driving Feedback: BiLSTM-ELM-Based Steering Torque Estimation for Slip-Aware Control"
     link:
     authors: "Jinwon Lee*, <strong>Taehyung Kim</strong>*, Jonghak Bae, Jongeun Choi, Junmin Wang"
-    conference: "Under reviewIEEE Transactions on Human-Machine Systems"
+    conference: "Under review, IEEE Transactions on Human-Machine Systems"
 
   - title: "Autonomous Robot Racing Competitions: Truly Multivehicle Autonomous Racing Competitions [Competitions]"
     link: "https://ieeexplore.ieee.org/document/10474524"
