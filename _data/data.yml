@@ -6,7 +6,6 @@ sidebar:
   position: right
   about: False
   education: True
-  interests: True
 
   name: Taehyung Kim
   tagline: "Master's Student<br>@ Yonsei University"
@@ -46,13 +45,16 @@ education:
     time: "Mar 2019 - Feb 2024"
     details: ""
 
-interests:
+  interests:
     title: Research Interests
     info:
-      Human allignment in robotics
-      - item: Preference-based reinforcement learning
-      Safety enhancement in robotics
-      - item: Safety-critical scenario generation
+      - item: Human alignment in robotics
+        subitems:
+          - Preference-based reinforcement learning
+
+      - item: Safety enhancement in robotics
+        subitems:
+          - Safety-critical scenario generation
 
 experiences:
   title: Experiences
