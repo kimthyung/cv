@@ -4,7 +4,7 @@
 
 sidebar:
   position: right
-  about: False
+  about: True
   education: True
 
   name: Taehyung Kim
@@ -31,6 +31,11 @@ sidebar:
   hackerrank:
   leetcode:
   pdf:
+
+career-profile:
+  title: Research Interests
+  summary: |
+    Human-centered autonomous driving, reinforcement learning-based control optimization, human preference learning, pluralistic alignment in robotics, and safety-critical scenario generation.
 
 education:
   title: Education
