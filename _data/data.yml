@@ -68,8 +68,6 @@ experiences:
 
 projects:
   title: Projects
-  intro: >
-    Selected robotics, computer vision, and intelligent mobility projects from internship and research experience.
   assignments:
 
   - title: "Personalized In-Vehicle AI Assistants via User Preference Alignment"
