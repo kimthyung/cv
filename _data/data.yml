@@ -52,28 +52,19 @@ experiences:
     time: "Mar. 2024 - Jul. 2024"
     company: "Seadronix Corp., Seoul, Republic of Korea"
     details: |
-      Worked on perception-related robotics tasks for smart vessel systems, focusing on multiple object tracking and calibration automation.
-        - Developed and tested multiple object tracking workflows for surround-camera perception.
-        - Automated camera-calibration procedures to improve repeatability and reduce manual setup effort.
-        - Applied geometric reasoning and computer vision methods to support robust target association in maritime camera systems.
+      Worked on improving the camera-based surrounding vessel approach warning system for smart vessel berthing operations and robotic arm-based automation of vessel camera calibration.
 
   - role: "Robotics Engineer Intern"
     time: "Dec. 2023 - Feb. 2024"
     company: "HD Hyundai Robotics, Seoul, Republic of Korea"
     details: |
-      Worked on industrial robot simulation during a robotics engineering internship.
-        - Built and evaluated industrial robot simulation scenarios.
-        - Supported simulation-based validation of robotic operation logic.
-        - Analyzed simulated robot behavior to improve reliability before physical deployment.
+      Worked on feasibility validation for deploying industrial robots that satisfy specified requirements using robot simulation tools.
 
   - role: "Software Engineer Intern"
     time: "Jul. 2023 - Aug. 2023"
     company: "NEXTLab, Seoul, Republic of Korea"
     details: |
-      Worked on detection-model development for vision-based software systems.
-        - Developed and tested detection-model components.
-        - Supported model evaluation and experiment workflows for detection performance analysis.
-        - Contributed to implementation-level improvements for computer vision applications.
+      Worked on detection model development for estimating the study time of supervised students.
 
 projects:
   title: Projects
