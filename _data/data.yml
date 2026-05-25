@@ -98,24 +98,24 @@ publications:
   - title: "Toward Deployable Pluralistic Alignment in Robotics: Learning Similarity-Grouped Rewards from Diverse Human Preferences"
     link:
     authors: "<strong>Taehyung Kim</strong>, Gwangmo Lee, Jonghak Bae, Dongjae Kim, Jaewoong Han, Jongeun Choi"
-    conference: "ICML 2026 Workshop on Pluralistic Alignment, accepted, 2026"
+    conference: "ICML 2026 Workshop on Pluralistic Alignment, 2026"
 
   - title: "COSTER: Collision Snapshot Guided Time-Reversed Safety-Critical Scenario Generation"
     link:
     authors: "<strong>Taehyung Kim</strong>, Jonghak Bae, Gihoon Kim, Jongeun Choi"
-    conference: "CoRL 2026, under review, 2026"
+    conference: "10th Conference on Robot Learning (CoRL, 2026), under review"
 
   - title: "Enhancing Remote Driving Feedback: BiLSTM-ELM-Based Steering Torque Estimation for Slip-Aware Control"
     link:
     authors: "Jinwon Lee*, <strong>Taehyung Kim</strong>*, Jonghak Bae, Jongeun Choi, Junmin Wang"
-    conference: "IEEE Transactions on Human-Machine Systems, under review, co-first author, May 2, 2025"
+    conference: "IEEE Transactions on Human-Machine Systems, under review, May 2, 2025"
 
   - title: "Autonomous Robot Racing Competitions: Truly Multivehicle Autonomous Racing Competitions [Competitions]"
     link: "https://ieeexplore.ieee.org/document/10474524"
     authors: "HeeChang Moon, Shin Han Kang, Jeongsik Eom, Myun Joong Hwang, Youngmin Kim, Jungha Wang, Beomjun Kim, <strong>Taehyung Kim</strong>, Taekwon Ga, Jongeun Choi, Wonsang You, Jiyou Shin, Jongsoo Han, Kyeongbeen Park, Hyungpil Moon, Seok-Cheol Kee, Hak-Jin Kim, Yong-Hyun Kim, Kibeom Lee, Jaeseung Yu"
     conference: "IEEE Robotics & Automation Magazine, Vol. 31, No. 1, pp. 123–132, March 2024"
 
-  - title: "A Method for Real-Time Target Association in Smart Vessel's Surround Camera System Using Geometric Relationships and SIFT Feature Point Detection"
-    link:
+  - title: "A Method for Real-Time Target Association in Smart Vessel's Surround Camera System Using Geometric Relationships and SIFT Feature Point Detection (Oral)"
+    link: "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11890350"
     authors: "<strong>Taehyung Kim</strong>, Minsuk Jang, Siho Kim"
-    conference: "The Institute of Electronics and Information Engineers, first-author oral presentation, June 25, 2024"
+    conference: "The Institute of Electronics and Information Engineers, June 25, 2024"
