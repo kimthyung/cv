@@ -91,12 +91,12 @@ publications:
   - title: "COSTER: Collision Snapshot Guided Time-Reversed Safety-Critical Scenario Generation"
     link:
     authors: "<strong>Taehyung Kim</strong>, Jonghak Bae, Gihoon Kim, Jongeun Choi"
-    conference: "10th Annual Conference on Robot Learning (CoRL), 2026, under review"
+    conference: "Under review, 10th Annual Conference on Robot Learning (CoRL), 2026"
 
   - title: "Enhancing Remote Driving Feedback: BiLSTM-ELM-Based Steering Torque Estimation for Slip-Aware Control"
     link:
     authors: "Jinwon Lee*, <strong>Taehyung Kim</strong>*, Jonghak Bae, Jongeun Choi, Junmin Wang"
-    conference: "IEEE Transactions on Human-Machine Systems, under review"
+    conference: "Under reviewIEEE Transactions on Human-Machine Systems"
 
   - title: "Autonomous Robot Racing Competitions: Truly Multivehicle Autonomous Racing Competitions [Competitions]"
     link: "https://ieeexplore.ieee.org/document/10474524"
