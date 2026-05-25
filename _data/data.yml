@@ -71,30 +71,18 @@ projects:
   intro: >
     Selected robotics, computer vision, and intelligent mobility projects from internship and research experience.
   assignments:
-  - title: "Multiple Object Tracking and Calibration Automation"
+
+  - title: "Personalized In-Vehicle AI Assistants via User Preference Alignment"
     link:
-    organization: "Seadronix Corp."
-    period: "Mar. 2024 - Jul. 2024"
-    tagline: "Seadronix Corp. | Mar. 2024 - Jul. 2024 | Developed perception-side workflows for smart vessel camera systems, combining multiple object tracking with calibration automation to support robust multi-camera operation."
+    organization: "Hyundai Motor Company, UX Strategy Team"
+    period: "Apr 2025 - Feb 2026"
+    tagline: "Developing personalized in-vehicle AI assistant systems aligned with user preferences and interaction behaviors."
 
-  - title: "Real-Time Target Association for Smart Vessel Surround-Camera Systems"
-    link: "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11890350"
-    organization: "Seadronix Corp. / The Institute of Electronics and Information Engineers"
-    period: "Mar. 2024 - Jun. 2024"
-    tagline: "Seadronix Corp. / IEIE | Mar. 2024 - Jun. 2024 | Designed a real-time target association method using geometric relationships and SIFT feature-point detection; presented as a first-author oral paper in 2024."
-
-  - title: "Industrial Robot Simulation"
+  - title: "Shoe Sorting using Object Pose Estimation on a UR Manipulator"
     link:
-    organization: "HD Hyundai Robotics"
-    period: "Dec. 2023 - Feb. 2024"
-    tagline: "HD Hyundai Robotics | Dec. 2023 - Feb. 2024 | Built simulation scenarios for industrial robots, supporting verification of robotic operation logic before physical deployment."
-
-  - title: "Detection Model Development"
-    link:
-    organization: "NEXTLab"
-    period: "Jul. 2023 - Aug. 2023"
-    tagline: "NEXTLab | Jul. 2023 - Aug. 2023 | Developed and evaluated detection-model components, with emphasis on vision-based model implementation."
-
+    organization: "Korea Institute of Science and Technology (KIST), Center for Artificial Intelligence"
+    period: "Jan 2024 - Feb 2024"
+    tagline: "Implemented a shoe sorting pipeline using object pose estimation and robotic manipulation with a UR robot arm."
 
 publications:
   title: Publications
