@@ -102,7 +102,7 @@ publications:
 
    - title: "Disentangled Differentiable Model Predictive Control for Data-efficient and Interpretable Imitation Learning"
     link: "https://openreview.net/forum?id=H4hDmYDazK"
-    authors: "Jonghak Bae, Taehyung Kim, Yonghwa Seo and Jongeun Choi"
+    authors: "Jonghak Bae, <strong>Taehyung Kim</strong>, Yonghwa Seo and Jongeun Choi"
     conference: "ICML Workshop on Decision-Making from Offline Datasets to Online Adaptation: Black-Box Optimization to Reinforcement Learning, 2026"   
 
   - title: "COSTER: Collision Snapshot Guided Time-Reversed Safety-Critical Scenario Generation"
