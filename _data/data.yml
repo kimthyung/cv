@@ -100,7 +100,7 @@ publications:
     authors: "<strong>Taehyung Kim</strong>, Gwangmo Lee, Jonghak Bae, Dongjae Kim, Jaewoong Han, Jongeun Choi"
     conference: "ICML Workshop on Pluralistic Alignment, 2026"
 
-   - title: "Disentangled Differentiable Model Predictive Control for Data-efficient and Interpretable Imitation Learning"
+  - title: "Disentangled Differentiable Model Predictive Control for Data-efficient and Interpretable Imitation Learning"
     link: "https://openreview.net/forum?id=H4hDmYDazK"
     authors: "Jonghak Bae, <strong>Taehyung Kim</strong>, Yonghwa Seo and Jongeun Choi"
     conference: "ICML Workshop on Decision-Making from Offline Datasets to Online Adaptation: Black-Box Optimization to Reinforcement Learning, 2026"   
