@@ -17,10 +17,10 @@
             <h3 class="cert-title">
               {% if certification.credentialurl %}
                 <a class="cert-title-link" href="{{ certification.credentialurl }}" target="_blank" rel="noopener noreferrer">
-                  <u>{{ certification.name }}</u>
+                  {{ certification.name }}
                 </a>
               {% else %}
-                <u>{{ certification.name }}</u>
+                {{ certification.name }}
               {% endif %}
             </h3>
 
