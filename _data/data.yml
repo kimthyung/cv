@@ -59,52 +59,41 @@ education:
       details: ""
 
 experiences:
-  info:
-  - role: "Robotics Engineer Intern"
-    company: "Seadronix Corp., Seoul, Republic of Korea"
-
-
-experiences:
   title: Industrial Experiences
   info:
-  - role: "Robotics Engineer Intern"
-    time: "Mar. 2024 - Jul. 2024"
-    company: "Seadronix Corp., Seoul, Republic of Korea"
-    details: |
-      Worked on improving the <a href="https://www.youtube.com/playlist?list=PLrKBo2y_PXzyWA-jEdgql_XBF54GHBy4A" target="_blank">camera-based surrounding vessel approach warning system for smart vessel berthing operations</a> and <a href="https://www.youtube.com/playlist?list=PLrKBo2y_PXzxcTPi4D9_xICf2MLlw0Ngu" target="_blank">robotic arm-based automation of vessel camera calibration</a>.
+    - role: "Robotics Engineer Intern"
+      time: "Mar. 2024 - Jul. 2024"
+      company: "Seadronix Corp., Seoul, Republic of Korea"
+      details: |
+        Worked on improving the <a href="https://www.youtube.com/playlist?list=PLrKBo2y_PXzyWA-jEdgql_XBF54GHBy4A" target="_blank">camera-based surrounding vessel approach warning system for smart vessel berthing operations</a> and <a href="https://www.youtube.com/playlist?list=PLrKBo2y_PXzxcTPi4D9_xICf2MLlw0Ngu" target="_blank">robotic arm-based automation of vessel camera calibration</a>.
 
-  - role: "Robotics Engineer Intern"
-    time: "Dec. 2023 - Feb. 2024"
-    company: "HD Hyundai Robotics, Seongnam, Republic of Korea"
-    details: |
-      Worked on feasibility validation for deploying industrial robots that satisfy specified requirements using robot simulation tools.
+    - role: "Robotics Engineer Intern"
+      time: "Dec. 2023 - Feb. 2024"
+      company: "HD Hyundai Robotics, Seongnam, Republic of Korea"
+      details: |
+        Worked on feasibility validation for deploying industrial robots that satisfy specified requirements using robot simulation tools.
 
-  - role: "Software Engineer Intern"
-    time: "Jul. 2023 - Aug. 2023"
-    company: "NEXTLab, Seoul, Republic of Korea"
-    details: |
-      Worked on detection model development for estimating the study time of supervised students.
+    - role: "Software Engineer Intern"
+      time: "Jul. 2023 - Aug. 2023"
+      company: "NEXTLab, Seoul, Republic of Korea"
+      details: |
+        Worked on detection model development for estimating the study time of supervised students.
 
-experiences:
-  title: Industrial Experiences
+
+research_experiences:
+  title: Research Experiences
   info:
-  - role: "Robotics Engineer Intern"
-    time: "Mar. 2024 - Jul. 2024"
-    company: "Seadronix Corp., Seoul, Republic of Korea"
-    details: |
-      Worked on improving the <a href="https://www.youtube.com/playlist?list=PLrKBo2y_PXzyWA-jEdgql_XBF54GHBy4A" target="_blank">camera-based surrounding vessel approach warning system for smart vessel berthing operations</a> and <a href="https://www.youtube.com/playlist?list=PLrKBo2y_PXzxcTPi4D9_xICf2MLlw0Ngu" target="_blank">robotic arm-based automation of vessel camera calibration</a>.
+    - role: "Participating Researcher | Supervisor: Prof. Joonsang Lee"
+      time: "Jan. 2023 - Jun. 2023"
+      company: "Multi-Scale Fluid Dynamics (MFDL) Lab, Yonsei University"
+      details: |
+        Contributed to research projects on building wind analysis, hemodynamics, and PPG sensor applications.
 
-  - role: "Robotics Engineer Intern"
-    time: "Dec. 2023 - Feb. 2024"
-    company: "HD Hyundai Robotics, Seongnam, Republic of Korea"
-    details: |
-      Worked on feasibility validation for deploying industrial robots that satisfy specified requirements using robot simulation tools.
-
-  - role: "Software Engineer Intern"
-    time: "Jul. 2023 - Aug. 2023"
-    company: "NEXTLab, Seoul, Republic of Korea"
-    details: |
-      Worked on detection model development for estimating the study time of supervised students.
+    - role: "Research Project Participant"
+      time: "Sep. 2023 - Dec. 2023"
+      company: "high-Dimensional Accurate Measurement and Intelligent Sensing (DAMIS) Lab, Yonsei University"
+      details: |
+        Developed a MATLAB-based 3D reconstruction pipeline using fringe pattern projection, including camera-projector calibration, sinusoidal and binary pattern generation, pattern projection, and reconstruction experiments.
 
 projects:
   title: Projects
