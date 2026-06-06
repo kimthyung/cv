@@ -5,7 +5,7 @@
 sidebar:
   position: right
   about: False
-  education: True
+  education: False
 
   name: Taehyung Kim
   tagline: "Master's Student<br>@ Yonsei University"
