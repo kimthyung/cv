@@ -368,12 +368,12 @@ p {
   }
 }
 
-.certifications-section .cert-title a {
+.main-wrapper .certifications-section .cert-title a {
   color: inherit;
-  text-decoration: underline;
+  text-decoration: underline !important;
   text-underline-offset: 2px;
 }
 
-.certifications-section .cert-title a:hover {
-  text-decoration: underline;
+.main-wrapper .certifications-section .cert-title a:hover {
+  text-decoration: underline !important;
 }
