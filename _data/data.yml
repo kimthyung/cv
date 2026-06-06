@@ -149,7 +149,7 @@ certifications:
   title: Honors and Awards
   list:
     - name: "Satellite Data Utilization Competition"
-      link: "https://github.com/HYUNAHKO/GreenWave"
+      link: 
       start: "Oct 2024"
       end:
       organization: "Grand Prize"
@@ -157,10 +157,10 @@ certifications:
       credentialurl:
       credentialname:
       details: |
-        Machine learning based algae bloom detection pipeline.
+        <a href="https://github.com/HYUNAHKO/GreenWave" target="_blank">Machine learning based algae bloom detection pipeline.</a>
 
     - name: "Academic Achievement Competition"
-      link: "https://www.youtube.com/playlist?list=PLrKBo2y_PXzzcJejmjYeYmxsvVJK66bjy"
+      link: 
       start: "June 2024"
       end:
       organization: "Excellence Award"
@@ -168,7 +168,7 @@ certifications:
       credentialurl:
       credentialname:
       details: |
-        Smart baby walker that automatically stops in hazardous situations. <a href="https://www.youtube.com/playlist?list=PLrKBo2y_PXzyWA-jEdgql_XBF54GHBy4A" target="_blank">camera-based surrounding vessel approach warning system for smart vessel berthing operations</a>
+        <a href="https://www.youtube.com/playlist?list=PLrKBo2y_PXzzcJejmjYeYmxsvVJK66bjy" target="_blank">Smart baby walker that automatically stops in hazardous situations. </a>
 
     - name: "Academic Excellence Scholarship"
       link:
