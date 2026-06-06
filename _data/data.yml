@@ -47,12 +47,14 @@ education:
   title: Education
   info:
     - degree: "M.S., Mobility Systems Engineering"
-      university: '<a href="https://mlcs.yonsei.ac.kr/index.html" target="_blank">Machine Learning and Control Systems (MLCS) Lab</a><br>Yonsei University, Seoul'
+      university: "Yonsei University, Seoul"
+      lab: '<a href="https://mlcs.yonsei.ac.kr/index.html" target="_blank">Machine Learning and Control Systems (MLCS) Lab</a>'
       time: "Mar 2025 - Present"
       details: ""
 
     - degree: "B.S., Mechanical Engineering"
       university: "Yonsei University, Seoul"
+      lab: ""
       time: "Mar 2019 - Feb 2024"
       details: ""
 
