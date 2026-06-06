@@ -156,7 +156,7 @@ certifications:
         Machine learning based algae bloom detection pipeline.
 
     - name: "Academic Achievement Competition"
-      start:
+      start: "June 2024"
       end:
       organization: "Excellence Award"
       credentialid:
@@ -166,7 +166,7 @@ certifications:
         Smart baby walker.
 
     - name: "Academic Excellence Scholarship"
-      start: "Aug 2024, Aug 2023, Jul 2023"
+      start: "Mar. 2023"
       end:
       organization: "Yonsei University"
       credentialid:
@@ -175,7 +175,7 @@ certifications:
       details: ""
 
     - name: "Mobility System Integration Cooperative Program Scholarship"
-      start:
+      start: "Aug. 2024, Aug. 2023, Jul. 2023"
       end:
       organization: "Scholarship"
       credentialid:
