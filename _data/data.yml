@@ -145,27 +145,30 @@ publications:
 certifications:
   title: Honors and Awards
   list:
-    - name: '<a href="https://drive.google.com/file/d/1dmH1VKV9XuR_HDSVMEvOHNL0A14_Y-2_/view" target="_blank"><u>Satellite Data Utilization Competition</u></a>'
+    - name: "Satellite Data Utilization Competition"
+      link: "https://drive.google.com/file/d/1dmH1VKV9XuR_HDSVMEvOHNL0A14_Y-2_/view"
       start: "Oct 2024"
       end:
       organization: "Grand Prize"
       credentialid:
-      credentialurl: 
+      credentialurl:
       credentialname:
       details: |
         Machine learning based algae bloom detection pipeline.
 
     - name: "Academic Achievement Competition"
+      link: "https://www.youtube.com/playlist?list=PLrKBo2y_PXzzcJejmjYeYmxsvVJK66bjy"
       start: "June 2024"
       end:
       organization: "Excellence Award"
       credentialid:
-      credentialurl: "https://www.youtube.com/playlist?list=PLrKBo2y_PXzzcJejmjYeYmxsvVJK66bjy"
+      credentialurl:
       credentialname:
       details: |
         Smart baby walker that automatically stops in hazardous situations.
 
     - name: "Academic Excellence Scholarship"
+      link:
       start: "Mar. 2023"
       end:
       organization: "Scholarship"
@@ -175,6 +178,7 @@ certifications:
       details: ""
 
     - name: "Mobility System Integration Program Scholarship"
+      link:
       start: "Aug. 2024"
       end:
       organization: "Scholarship"
