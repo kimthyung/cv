@@ -9,6 +9,11 @@
       {% for graduation in education.info %}
         <div class="item">
           <h4 class="degree">{{ graduation.university }}</h4>
+
+          {% if graduation.lab %}
+            <h5 class="meta">{{ graduation.lab }}</h5>
+          {% endif %}
+
           <h5 class="meta">{{ graduation.degree }}</h5>
           <div class="time">{{ graduation.time }}</div>
         </div>
@@ -33,6 +38,11 @@
               <h3 class="degree">{{ graduation.university }}</h3>
               <div class="time">{{ graduation.time }}</div>
             </div>
+
+            {% if graduation.lab %}
+              <div class="university">{{ graduation.lab }}</div>
+            {% endif %}
+
             <div class="university">{{ graduation.degree }}</div>
           </div>
 
