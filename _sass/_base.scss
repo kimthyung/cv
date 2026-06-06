@@ -368,10 +368,12 @@ p {
   }
 }
 
-.cert-title,
-.cert-title a,
-.cert-title-link,
-.cert-title-link ins {
+.certifications-section .cert-title-link {
   text-decoration: underline !important;
   text-underline-offset: 2px;
+}
+
+.certifications-section .cert-title-link:hover,
+.certifications-section .cert-title-link:focus {
+  text-decoration: underline !important;
 }
