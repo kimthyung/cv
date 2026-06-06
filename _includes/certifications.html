@@ -1,48 +1,21 @@
 {% assign certifications = site.data.data.certifications %}
 {% if certifications %}
 
-  <section class="section certifications-section">
-    <h2 class="section-title">
-      <span class="fa-stack fa-xs">
-        <i class="fas fa-circle fa-stack-2x"></i>
-        <i class="fas fa-trophy fa-stack-1x fa-inverse"></i>
-      </span>
-      {{ certifications.title }}
-    </h2>
+## {{ certifications.title }}
 
-    {% for certification in certifications.list %}
-      <div class="item">
-        <div class="meta">
-          <div class="upper-row">
-            <h3 class="cert-title">
-              {% if certification.link %}
-                <a href="{{ certification.link }}" target="_blank" rel="noopener noreferrer">
-                  <u>{{ certification.name }}</u>
-                </a>
-              {% else %}
-                {{ certification.name }}
-              {% endif %}
-            </h3>
+{% for certification in certifications.list %}
 
-            <div class="time">
-              {{ certification.start }}{% if certification.end %} - {{ certification.end }}{% endif %}
-            </div>
-          </div>
+### {% if certification.link %}[{{ certification.name }}]({{ certification.link }}){% else %}{{ certification.name }}{% endif %}
 
-          {% if certification.organization %}
-            <div class="cert-org">
-              {{ certification.organization }}{% if certification.credentialid %} ({{ certification.credentialid }}){% endif %}
-            </div>
-          {% endif %}
-        </div>
+{{ certification.start }}{% if certification.end %} - {{ certification.end }}{% endif %}
 
-        {% if certification.details %}
-          <div class="details">
-            {{ certification.details | markdownify }}
-          </div>
-        {% endif %}
-      </div>
-    {% endfor %}
-  </section>
+{% if certification.organization %}
+{{ certification.organization }}{% if certification.credentialid %} ({{ certification.credentialid }}){% endif %}
+{% endif %}
 
+{% if certification.details %}
+{{ certification.details | markdownify }}
+{% endif %}
+
+{% endfor %}
 {% endif %}
