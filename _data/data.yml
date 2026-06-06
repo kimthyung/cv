@@ -150,7 +150,7 @@ certifications:
       end:
       organization: "Grand Prize"
       credentialid:
-      credentialurl: "https://drive.google.com/file/d/1dmH1VKV9XuR_HDSVMEvOHNL0A14_Y-2_/view"
+      credentialurl: 
       credentialname:
       details: |
         Machine learning based algae bloom detection pipeline.
