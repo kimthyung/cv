@@ -368,12 +368,13 @@ p {
   }
 }
 
-.main-wrapper .certifications-section .cert-title a {
-  color: inherit;
+.main-wrapper h3 a {
+  color: darken($theme-color, 15%);
   text-decoration: underline !important;
   text-underline-offset: 2px;
 }
 
-.main-wrapper .certifications-section .cert-title a:hover {
+.main-wrapper h3 a:hover {
+  color: darken($theme-color, 30%);
   text-decoration: underline !important;
 }
