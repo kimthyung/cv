@@ -146,29 +146,29 @@ certifications:
   title: Honors and Awards
   list:
     - name: "Satellite Data Utilization Competition"
-  start: "Oct. 2024"
-  end:
-  organization: "Grand Prize"
-  credentialid:
-  credentialurl: "https://drive.google.com/file/d/1dmH1VKV9XuR_HDSVMEvOHNL0A14_Y-2_/view"
-  credentialname:
-  details: |
-    Machine learning based algae bloom detection pipeline.
+      start: "Oct. 2024"
+      end:
+      organization: "Grand Prize"
+      credentialid:
+      credentialurl: "https://drive.google.com/file/d/1dmH1VKV9XuR_HDSVMEvOHNL0A14_Y-2_/view"
+      credentialname:
+      details: |
+        Machine learning based algae bloom detection pipeline.
 
-- name: "Academic Achievement Competition"
-  start: "Jun. 2024"
-  end:
-  organization: "Excellence Award"
-  credentialid:
-  credentialurl: "https://www.youtube.com/playlist?list=PLrKBo2y_PXzzcJejmjYeYmxsvVJK66bjy"
-  credentialname:
-  details: |
-    Smart baby walker that automatically stops in hazardous situations.
-    
+    - name: "Academic Achievement Competition"
+      start: "Jun. 2024"
+      end:
+      organization: "Excellence Award"
+      credentialid:
+      credentialurl: "https://www.youtube.com/playlist?list=PLrKBo2y_PXzzcJejmjYeYmxsvVJK66bjy"
+      credentialname:
+      details: |
+        Smart baby walker that automatically stops in hazardous situations.
+
     - name: "Academic Excellence Scholarship"
       start: "Mar. 2023"
       end:
-      organization: "Scholarship"
+      organization: "Yonsei University"
       credentialid:
       credentialurl:
       credentialname:
@@ -181,5 +181,6 @@ certifications:
       credentialid:
       credentialurl:
       credentialname:
-      details: ""
+      details: |
+        Improving steering feedback performance during vehicle slip conditions in an x-by-wire system using BiLSTM and ELM.
         
