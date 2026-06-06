@@ -83,17 +83,17 @@ experiences:
 research_experiences:
   title: Research Experiences
   info:
-    - role: "Participating Researcher | Supervisor: Prof. Joonsang Lee"
+    - role: "Multi-Scale Fluid Dynamics Lab (MFDL), Participating Researcher"
       time: "Jan. 2023 - Jun. 2023"
-      company: "Multi-Scale Fluid Dynamics (MFDL) Lab, Yonsei University"
+      company: "MFDL Lab, Yonsei University"
       details: |
         Contributed to research projects on building wind analysis, hemodynamics, and PPG sensor applications.
 
-    - role: "Research Project Participant"
+    - role: "high-Dimensional Accurate Measurement and Intelligent Sensing (DAMIS) Lab"
       time: "Sep. 2023 - Dec. 2023"
-      company: "high-Dimensional Accurate Measurement and Intelligent Sensing (DAMIS) Lab, Yonsei University"
+      company: "DAMIS Lab, Yonsei University"
       details: |
-        Developed a MATLAB-based 3D reconstruction pipeline using fringe pattern projection, including camera-projector calibration, sinusoidal and binary pattern generation, pattern projection, and reconstruction experiments.
+        Developed a MATLAB-based 3D reconstruction pipeline using fringe pattern projection, including camera-projector calibration.
 
 projects:
   title: Projects
