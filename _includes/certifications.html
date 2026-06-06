@@ -15,7 +15,13 @@
         <div class="meta">
           <div class="upper-row">
             <h3 class="cert-title">
-              {{ certification.name }}
+              {% if certification.credentialurl %}
+                <a class="cert-title-link" href="{{ certification.credentialurl }}" target="_blank" rel="noopener noreferrer">
+                  {{ certification.name }}
+                </a>
+              {% else %}
+                {{ certification.name }}
+              {% endif %}
             </h3>
 
             <div class="time">
