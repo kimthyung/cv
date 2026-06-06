@@ -368,14 +368,4 @@ p {
   }
 }
 
-.main-wrapper .certifications-section .cert-title .cert-title-link {
-  color: darken($theme-color, 15%);
-  text-decoration: none !important;
-  border-bottom: 1px solid darken($theme-color, 15%);
-  padding-bottom: 1px;
-}
 
-.main-wrapper .certifications-section .cert-title .cert-title-link:hover {
-  color: darken($theme-color, 30%);
-  border-bottom-color: darken($theme-color, 30%);
-}
