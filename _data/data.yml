@@ -84,13 +84,13 @@ research_experiences:
   title: Research Experiences
   info:
     - role: "Multi-Scale Fluid Dynamics Lab (MFDL)"
-      time: "Jan. 2023 - Jun. 2023"
+      time: "Jan 2023 - Jun 2023"
       company: "MFDL, Yonsei University"
       details: |
         Contributed to research projects on building wind analysis, hemodynamics, and PPG sensor applications.
 
     - role: "high-Dimensional Accurate Measurement and Intelligent Sensing (DAMIS) Lab"
-      time: "Sep. 2023 - Dec. 2023"
+      time: "Sep 2023 - Dec 2023"
       company: "DAMIS Lab, Yonsei University"
       details: |
         Developed a MATLAB-based 3D reconstruction pipeline using fringe pattern projection, including camera-projector calibration.
@@ -145,7 +145,7 @@ publications:
 certifications:
   title: Honors and Awards
   list:
-    - name: "Satellite Data Utilization Competition"
+    - name: '<a href="https://drive.google.com/file/d/1dmH1VKV9XuR_HDSVMEvOHNL0A14_Y-2_/view" target="_blank" rel="noopener noreferrer">Satellite Data Utilization Competition</a>'
       start: "Oct 2024"
       end:
       organization: "Grand Prize"
