@@ -368,13 +368,14 @@ p {
   }
 }
 
-.main-wrapper h3 a {
+.main-wrapper .certifications-section .cert-title .cert-title-link {
   color: darken($theme-color, 15%);
-  text-decoration: underline !important;
-  text-underline-offset: 2px;
+  text-decoration: none !important;
+  border-bottom: 1px solid darken($theme-color, 15%);
+  padding-bottom: 1px;
 }
 
-.main-wrapper h3 a:hover {
+.main-wrapper .certifications-section .cert-title .cert-title-link:hover {
   color: darken($theme-color, 30%);
-  text-decoration: underline !important;
+  border-bottom-color: darken($theme-color, 30%);
 }
