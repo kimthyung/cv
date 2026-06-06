@@ -1,45 +1,37 @@
 {% assign education = site.data.data.education %}
 {% if education %}
-  {% if site.data.data.sidebar.education %}
+{% if site.data.data.sidebar.education %}
 
-    <div class="education-container container-block">
-      <h2 class="container-block-title">{{ education.title }}</h2>
+##  {{ education.title }}
 
-      {% for graduation in education.info %}
-        <div class="item">
-          <h4 class="degree">{{ graduation.university }}</h4>
-          <h5 class="meta">{{ graduation.degree }}</h5>
-          <div class="time">{{ graduation.time }}</div>
-        </div>
-      {% endfor %}
-    </div>
+{% for graduation in education.info %}
 
-  {% else %}
+#### {{ graduation.university }}
 
-    <section class="section educations-section">
-      <h2 class="section-title">
-        <span class="icon-holder"><i class="fas fa-graduation-cap"></i></span>
-        {{ education.title }}
-      </h2>
+##### {{ graduation.degree }}
 
-      {% for graduation in education.info %}
-        <div class="item">
-          <div class="meta">
-            <div class="upper-row">
-              <h3 class="degree">{{ graduation.university }}</h3>
-              <div class="time">{{ graduation.time }}</div>
-            </div>
-            <div class="university">{{ graduation.degree }}</div>
-          </div>
+{{ graduation.time }}
 
-          {% if graduation.details %}
-            <div class="details">
-              {{ graduation.details | markdownify }}
-            </div>
-          {% endif %}
-        </div>
-      {% endfor %}
-    </section>
+{% endfor %}
 
-  {% endif %}
+{% else %}
+
+##  {{ education.title }}
+
+{% for graduation in education.info %}
+
+### {{ graduation.university }}
+
+{{ graduation.time }}
+
+{{ graduation.degree }}
+
+{% if graduation.details %}
+
+{{ graduation.details | markdownify }}
+
+{% endif %}
+
+{% endfor %}
+{% endif %}
 {% endif %}
