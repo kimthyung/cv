@@ -367,3 +367,13 @@ p {
     margin-right: 5px;
   }
 }
+
+.certifications-section .cert-title a {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.certifications-section .cert-title a:hover {
+  text-decoration: underline;
+}
