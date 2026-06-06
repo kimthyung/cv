@@ -106,7 +106,7 @@ publications:
     conference: "ICML Workshop on Decision-Making from Offline Datasets to Online Adaptation: Black-Box Optimization to Reinforcement Learning, 2026"   
 
   - title: "COSTER: Collision Snapshot Guided Time-Reversed Safety-Critical Scenario Generation"
-    link:
+    link: "https://anonym-121.github.io/COSTER/"
     authors: "<strong>Taehyung Kim</strong>, Jonghak Bae, Gihoon Kim, Jongeun Choi"
     conference: "Under review, CoRL, 2026"
 
