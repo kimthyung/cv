@@ -2,31 +2,44 @@
 {% if education %}
   {% if site.data.data.sidebar.education %}
 
-    <h2>{{ education.title }}</h2>
+    <div class="education-container container-block">
+      <h2 class="container-block-title">{{ education.title }}</h2>
 
-    {% for graduation in education.info %}
-
-      <h4>{{ graduation.university }}</h4>
-      <h5>{{ graduation.degree }}</h5>
-      <p>{{ graduation.time }}</p>
-
-    {% endfor %}
+      {% for graduation in education.info %}
+        <div class="item">
+          <h4 class="degree">{{ graduation.university }}</h4>
+          <h5 class="meta">{{ graduation.degree }}</h5>
+          <div class="time">{{ graduation.time }}</div>
+        </div>
+      {% endfor %}
+    </div>
 
   {% else %}
 
-    <h2>{{ education.title }}</h2>
+    <section class="section educations-section">
+      <h2 class="section-title">
+        <span class="icon-holder"><i class="fas fa-graduation-cap"></i></span>
+        {{ education.title }}
+      </h2>
 
-    {% for graduation in education.info %}
+      {% for graduation in education.info %}
+        <div class="item">
+          <div class="meta">
+            <div class="upper-row">
+              <h3 class="degree">{{ graduation.university }}</h3>
+              <div class="time">{{ graduation.time }}</div>
+            </div>
+            <div class="university">{{ graduation.degree }}</div>
+          </div>
 
-      <h3>{{ graduation.university }}</h3>
-      <h4>{{ graduation.degree }}</h4>
-      <p>{{ graduation.time }}</p>
-
-      {% if graduation.details %}
-        {{ graduation.details | markdownify }}
-      {% endif %}
-
-    {% endfor %}
+          {% if graduation.details %}
+            <div class="details">
+              {{ graduation.details | markdownify }}
+            </div>
+          {% endif %}
+        </div>
+      {% endfor %}
+    </section>
 
   {% endif %}
 {% endif %}
