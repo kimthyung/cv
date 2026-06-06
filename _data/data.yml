@@ -145,22 +145,22 @@ publications:
 certifications:
   title: Honors and Awards
   list:
-    - name: "Satellite Data Utilization Competition"
+    - name: '<a href="https://drive.google.com/file/d/1dmH1VKV9XuR_HDSVMEvOHNL0A14_Y-2_/view" target="_blank" rel="noopener noreferrer" style="text-decoration: underline; border-bottom: 1px solid currentColor; padding-bottom: 1px;">Satellite Data Utilization Competition</a>'
       start: "Oct 2024"
       end:
       organization: "Grand Prize"
       credentialid:
-      credentialurl: "https://drive.google.com/file/d/1dmH1VKV9XuR_HDSVMEvOHNL0A14_Y-2_/view"
+      credentialurl:
       credentialname:
       details: |
         Machine learning based algae bloom detection pipeline.
 
-    - name: "Academic Achievement Competition"
+    - name: '<a href="https://www.youtube.com/playlist?list=PLrKBo2y_PXzzcJejmjYeYmxsvVJK66bjy" target="_blank" rel="noopener noreferrer" style="text-decoration: underline; border-bottom: 1px solid currentColor; padding-bottom: 1px;">Academic Achievement Competition</a>'
       start: "June 2024"
       end:
       organization: "Excellence Award"
       credentialid:
-      credentialurl: "https://www.youtube.com/playlist?list=PLrKBo2y_PXzzcJejmjYeYmxsvVJK66bjy"
+      credentialurl:
       credentialname:
       details: |
         Smart baby walker that automatically stops in hazardous situations.
