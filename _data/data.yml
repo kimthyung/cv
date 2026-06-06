@@ -48,7 +48,7 @@ education:
   info:
     - degree: "M.S., Mobility Systems Engineering"
       university: "Yonsei University, Seoul"
-      lab: '<a href="https://mlcs.yonsei.ac.kr/index.html" target="_blank">Machine Learning and Control Systems (MLCS) Lab</a>'
+      lab: '<a href="https://mlcs.yonsei.ac.kr/index.html" target="_blank">Machine Learning and Control Systems (MLCS) Lab</a>' (Advised by Prof. Jongeun Choi)
       time: "Mar 2025 - Feb 2027"
       details: ""
 
