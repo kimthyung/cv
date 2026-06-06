@@ -48,12 +48,7 @@ education:
   info:
     - degree: "M.S., Mobility Systems Engineering"
       university: "Yonsei University, Seoul"
-      affiliations:
-        - name: "Machine Learning and Control Systems (MLCS) Lab"
-          supervisor: "Prof. Jongeun Choi"
-          url: "https://mlcs.yonsei.ac.kr/index.html"
-        - name: "Hyundai Motor Company, UX Strategy Team"
-          supervisor: "Dr. Sunghyun Lim"
+      lab: '<a href="https://mlcs.yonsei.ac.kr/index.html" target="_blank">Machine Learning and Control Systems (MLCS) Lab</a>'
       time: "Mar 2025 - Feb 2027"
       details: ""
 
