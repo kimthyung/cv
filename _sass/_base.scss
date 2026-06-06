@@ -368,4 +368,10 @@ p {
   }
 }
 
-
+.cert-title,
+.cert-title a,
+.cert-title-link,
+.cert-title-link ins {
+  text-decoration: underline !important;
+  text-underline-offset: 2px;
+}
