@@ -145,7 +145,7 @@ publications:
 certifications:
   title: Honors and Awards
   list:
-    - name: "<u>Satellite Data Utilization Competition"
+    - name: "<u>Satellite Data Utilization Competition</u>"
       start: "Oct 2024"
       end:
       organization: "Grand Prize"
@@ -155,7 +155,7 @@ certifications:
       details: |
         Machine learning based algae bloom detection pipeline.
 
-    - name: "Academic Achievement Competition<u>"
+    - name: "<u>Academic Achievement Competition</u>"
       start: "June 2024"
       end:
       organization: "Excellence Award"
