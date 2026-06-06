@@ -15,7 +15,13 @@
         <div class="meta">
           <div class="upper-row">
             <h3 class="cert-title">
-              {{ certification.name | markdownify | remove: '<p>' | remove: '</p>' }}
+              {% if certification.link %}
+                <a href="{{ certification.link }}" target="_blank" rel="noopener noreferrer">
+                  <u>{{ certification.name }}</u>
+                </a>
+              {% else %}
+                {{ certification.name }}
+              {% endif %}
             </h3>
 
             <div class="time">
