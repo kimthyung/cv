@@ -83,9 +83,9 @@ experiences:
 research_experiences:
   title: Research Experiences
   info:
-    - role: "Multi-Scale Fluid Dynamics Lab (MFDL), Participating Researcher"
+    - role: "Multi-Scale Fluid Dynamics Lab (MFDL)"
       time: "Jan. 2023 - Jun. 2023"
-      company: "MFDL Lab, Yonsei University"
+      company: "MFDL, Yonsei University"
       details: |
         Contributed to research projects on building wind analysis, hemodynamics, and PPG sensor applications.
 
