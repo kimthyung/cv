@@ -100,16 +100,16 @@ projects:
   intro:
   assignments:
     - title: "Enhancing the Reliability of a Reinforcement Learning Performance Index for Controller Training Using Customer Feedback Information"
-    link:
-    tagline: "with Hyundai Motor Company, Chassis Control Research Lab (Jan 2026 -)"
+      link:
+      tagline: "with Hyundai Motor Company, Chassis Control Research Lab (Jan 2026 -)"
 
-  - title: "Reinforcement Learning-Based Controller Optimization Using Customer Feedback"
-    link:
-    tagline: "with Hyundai Motor Company, Chassis Control Research Lab (Jan 2025 - Feb 2025)"
+    - title: "Reinforcement Learning-Based Controller Optimization Using Customer Feedback"
+      link:
+      tagline: "with Hyundai Motor Company, Chassis Control Research Lab (Jan 2025 - Feb 2025)"
 
-  - title: "Natural Language-Based Eyes-On-Request Warning Interface for Level 2+ Autonomous Driving"
-    link:
-    tagline: "with Hyundai Motor Company, UX Strategy Team (Apr 2025 - Feb 2025)"
+    - title: "Natural Language-Based Eyes-On-Request Warning Interface for Level 2+ Autonomous Driving"
+      link:
+      tagline: "with Hyundai Motor Company, UX Strategy Team (Apr 2025 - Feb 2025)"
 
 publications:
   title: Publications
