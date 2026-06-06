@@ -155,12 +155,12 @@ certifications:
       details: |
         Machine learning based algae bloom detection pipeline.
 
-    - name: "__Academic Achievement Competition__"
+    - name: "<u>[Academic Achievement Competition](https://www.youtube.com/playlist?list=PLrKBo2y_PXzzcJejmjYeYmxsvVJK66bjy)</u>"
       start: "June 2024"
       end:
       organization: "Excellence Award"
       credentialid:
-      credentialurl: "https://www.youtube.com/playlist?list=PLrKBo2y_PXzzcJejmjYeYmxsvVJK66bjy"
+      credentialurl:
       credentialname:
       details: |
         Smart baby walker that automatically stops in hazardous situations.
