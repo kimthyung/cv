@@ -163,7 +163,7 @@ certifications:
       credentialurl:
       credentialname:
       details: |
-        Smart baby walker.
+        Smart baby walker that automatically stops in hazardous situations.
 
     - name: "Academic Excellence Scholarship"
       start: "Mar. 2023"
@@ -181,5 +181,5 @@ certifications:
       credentialid:
       credentialurl:
       credentialname:
-      details: |
-        Improving steering feedback performance during vehicle slip conditions in an x-by-wire system using BiLSTM and ELM.
+      details: ""
+        
