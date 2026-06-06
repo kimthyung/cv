@@ -44,17 +44,14 @@ sidebar:
           - Safety-critical scenario generation
 
 education:
-title: Education
-info:
+  info:
+  - degree: "M.S., Mobility Systems Engineering"
+    university: "Yonsei University, Seoul"
 
-degree: "<a href="https://mlcs.yonsei.ac.kr/index.html\" target="_blank">Machine Learning and Control Systems (MLCS) Lab Yonsei University, Seoul"
-university: "M.S., Mobility Systems Engineering"
-time: "Mar 2025 - Present"
-details: ""
-degree: "Yonsei University, Seoul"
-university: "B.S., Mechanical Engineering"
-time: "Mar 2019 - Feb 2024"
-details: ""
+experiences:
+  info:
+  - role: "Robotics Engineer Intern"
+    company: "Seadronix Corp., Seoul, Republic of Korea"
 
 
 experiences:
