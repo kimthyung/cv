@@ -146,7 +146,7 @@ certifications:
   title: Honors and Awards
   list:
     - name: "Satellite Data Utilization Competition"
-      start: "Oct. 2024"
+      start: "Oct 2024"
       end:
       organization: "Grand Prize"
       credentialid:
@@ -156,7 +156,7 @@ certifications:
         Machine learning based algae bloom detection pipeline.
 
     - name: "Academic Achievement Competition"
-      start: "Jun. 2024"
+      start: "June 2024"
       end:
       organization: "Excellence Award"
       credentialid:
@@ -168,7 +168,7 @@ certifications:
     - name: "Academic Excellence Scholarship"
       start: "Mar. 2023"
       end:
-      organization: "Yonsei University"
+      organization: "Scholarship"
       credentialid:
       credentialurl:
       credentialname:
@@ -181,6 +181,4 @@ certifications:
       credentialid:
       credentialurl:
       credentialname:
-      details: |
-        Improving steering feedback performance during vehicle slip conditions in an x-by-wire system using BiLSTM and ELM.
-        
+      details: ""
