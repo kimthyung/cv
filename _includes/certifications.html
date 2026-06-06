@@ -15,8 +15,15 @@
         <div class="meta">
           <div class="upper-row">
             <h3 class="cert-title">
-  {{ certification.name | markdownify | remove: '<p>' | remove: '</p>' }}
-</h3>
+              {% if certification.credentialurl %}
+                <a class="cert-title-link" href="{{ certification.credentialurl }}" target="_blank" rel="noopener noreferrer">
+                  {{ certification.name }}
+                </a>
+              {% else %}
+                {{ certification.name }}
+              {% endif %}
+            </h3>
+
             <div class="time">
               {{ certification.start }}{% if certification.end %} - {{ certification.end }}{% endif %}
             </div>
@@ -28,14 +35,6 @@
             </div>
           {% endif %}
         </div>
-
-        {% if certification.credentialurl %}
-          <div class="cert-url">
-            <a href="{{ certification.credentialurl }}" target="_blank">
-              {{ certification.credentialname }}
-            </a>
-          </div>
-        {% endif %}
 
         {% if certification.details %}
           <div class="details">
