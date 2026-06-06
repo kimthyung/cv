@@ -112,7 +112,7 @@ publications:
 
   - title: "Enhancing Remote Driving Feedback: BiLSTM-ELM-Based Steering Torque Estimation for Slip-Aware Control"
     link:
-    authors: "Jinwon Lee*, <strong>Taehyung Kim</strong>*, Jonghak Bae, Jongeun Choi, Junmin Wang <br>(* denotes equal contribution)"
+    authors: "Jinwon Lee*, <strong>Taehyung Kim</strong>*, Jonghak Bae, Jongeun Choi, Junmin Wang <br>* denotes equal contribution"
     conference: "Under review, IEEE Transactions on Human-Machine Systems"
 
   - title: "Autonomous Robot Racing Competitions: Truly Multivehicle Autonomous Racing Competitions [Competitions]"
