@@ -367,13 +367,8 @@ p {
     margin-right: 5px;
   }
 }
-
-.certifications-section .cert-title-link {
+.certifications-section .cert-title a,
+.certifications-section .cert-title u {
   text-decoration: underline !important;
   text-underline-offset: 2px;
-}
-
-.certifications-section .cert-title-link:hover,
-.certifications-section .cert-title-link:focus {
-  text-decoration: underline !important;
 }
