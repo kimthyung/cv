@@ -131,3 +131,45 @@ publications:
     link: "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11890350"
     authors: "<strong>Taehyung Kim</strong>, Minsuk Jang, Siho Kim"
     conference: "The Institute of Electronics and Information Engineers, June 25, 2024"
+
+certifications:
+  title: Honors and Awards
+  list:
+    - name: "Satellite Data Utilization Competition"
+      start: "Oct 2024"
+      end:
+      organization: "Grand Prize"
+      credentialid:
+      credentialurl:
+      credentialname:
+      details: |
+        Machine learning based algae bloom detection pipeline.
+
+    - name: "Academic Achievement Competition"
+      start:
+      end:
+      organization: "Excellence Award"
+      credentialid:
+      credentialurl:
+      credentialname:
+      details: |
+        Smart baby walker.
+
+    - name: "Academic Excellence Scholarship"
+      start: "Aug 2024, Aug 2023, Jul 2023"
+      end:
+      organization: "Yonsei University"
+      credentialid:
+      credentialurl:
+      credentialname:
+      details: ""
+
+    - name: "Mobility System Integration Cooperative Program Scholarship"
+      start:
+      end:
+      organization: "Scholarship"
+      credentialid:
+      credentialurl:
+      credentialname:
+      details: |
+        Improving steering feedback performance during vehicle slip conditions in an x-by-wire system using BiLSTM and ELM.
