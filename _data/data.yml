@@ -87,13 +87,13 @@ research_experiences:
       time: "Jan 2023 - Jun 2023"
       company: "MFDL, Yonsei University"
       details: |
-        Contributed to research projects on building wind analysis, hemodynamics, and PPG sensor applications.
+        <a href="https://github.com/kimthyung/buildingwind_project" target="_blank">Contributed to research projects on building wind analysis</a>, hemodynamics, and PPG sensor applications. 
 
     - role: "high-Dimensional Accurate Measurement and Intelligent Sensing (DAMIS) Lab"
       time: "Sep 2023 - Dec 2023"
       company: "DAMIS Lab, Yonsei University"
       details: |
-        Developed a MATLAB-based 3D reconstruction pipeline using fringe pattern projection, including camera-projector calibration.
+        <a href="https://github.com/kimthyung/3D_Reconstruction_with_Fringe_pattern" target="_blank">Developed a MATLAB-based 3D reconstruction pipeline using fringe pattern projection, including camera-projector calibration</a>.
 
 projects:
   title: Projects
