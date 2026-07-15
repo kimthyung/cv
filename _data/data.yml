@@ -115,6 +115,11 @@ publications:
   title: Publications
 
   papers:
+  - title: "Deployable Human Preference Alignment in Robotics: Learning Representative Rewards from Diverse Human Preferences"
+    link: "https://arxiv.org/abs/2607.12466"
+    authors: "<strong>Taehyung Kim</strong>, Gwangmo Lee, Minjun Chang, Sunghyun Lim, Jongeun Choi"
+    conference: "Under review, AAAI, 2027"
+  
   - title: "Toward Deployable Pluralistic Alignment in Robotics: Learning Similarity-Grouped Rewards from Diverse Human Preferences"
     link: "https://openreview.net/forum?id=yoBtqiFZdi"
     authors: "<strong>Taehyung Kim</strong>, Gwangmo Lee, Jonghak Bae, Dongjae Kim, Jaewoong Han, Jongeun Choi"
